@@ -1,0 +1,16 @@
+Generating 1000000 random numbers
+Generated 1000000 random numbers between -100000 and 100000 in numbers.dat
+Starting system sort
+
+real	0m1.158s
+user	0m1.124s
+sys	0m0.025s
+Starting mysort
+
+argv[0]: ./mysort
+argv[1]: numbers.dat
+argv[2]: mysort.out
+
+real	0m45.323s
+user	5m31.443s
+sys	0m0.946s
